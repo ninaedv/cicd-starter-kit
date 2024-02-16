@@ -13,3 +13,10 @@
 	"mimeTypes": { ".json": "text/json" }
 }
 ```
+
+### Pipeline configuration (NODE)
+
+```yml
+env:
+  NODE_VERSION: 18
+```
